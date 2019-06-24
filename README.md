@@ -11,7 +11,7 @@ A function that implements an enhanced version of the unit root testing strategy
 - sigLev2: the significance level used for separate hypothesis tests used to determine the presence of drift and deterministic time trend terms. The default value is .05.
 
 ## Output: 
-  The output is a data frame that contains the overall result of the testing strategy.
+  The output is a data frame that contains the results of the testing strategy.
 
 ## References
 - Elder, J., & Kennedy, P. E. (2001). Testing for unit roots: what should students be taught?. The Journal of Economic Education, 32(2), 137-146.
