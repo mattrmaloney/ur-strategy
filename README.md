@@ -1,5 +1,5 @@
 # ur-strategy
-A function that implements an enhanced version of the unit root testing strategy from Elder and Kennedy (2001). It implements testing following the same logic as the paper but uses augmented, rather than standard, Dickey-Fuller Test  specifications. It performs Augmented Dickey Fuller (ADF) tests using the urca package. 
+A function that implements an enhanced version of the unit root testing strategy from Elder and Kennedy (2001). It follows the same logic as the paper but uses augmented, rather than standard, Dickey-Fuller Test  specifications. It performs Augmented Dickey Fuller (ADF) tests using the urca package. 
 
 ## Function Arguments
 - series: the time series to be tested
